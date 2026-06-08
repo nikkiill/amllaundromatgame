@@ -2,7 +2,7 @@ The Laundromat — AML Detection Simulator
 
 You have £1,000,000 in criminal proceeds. Can you clean it across three stages without triggering a Suspicious Activity Report to the NCA?
 
-Play it → [your GitHub Pages link] What it is An interactive educational simulation of the three-stage money laundering process — Placement, Layering, Integration — with AML detection systems responding to each decision in real time. Every scenario maps to documented typologies from FATF guidance, the NCA Annual SARs Report 2024 and the FCA Financial Crime Guide. Regulatory references are cited after every choice. How it works
+Play it → (https://github.com/nikkiill/AML-Laundromat-Game) What it is An interactive educational simulation of the three-stage money laundering process — Placement, Layering, Integration — with AML detection systems responding to each decision in real time. Every scenario maps to documented typologies from FATF guidance, the NCA Annual SARs Report 2024 and the FCA Financial Crime Guide. Regulatory references are cited after every choice. How it works
 
 3 stages, each with 3 choices at different risk levels Each choice carries a detection heat score — visible before you commit High-risk choices trigger real detection system responses (structuring alerts, MLRO escalations, SAR filings) Accumulate enough heat → NCA alert fires, SAR is submitted, game ends After each choice: Compliance Insight explains exactly how real AML systems would respond
 
