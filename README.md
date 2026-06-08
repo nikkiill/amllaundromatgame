@@ -1,1 +1,9 @@
-# amllaundromatgame
+The Laundromat — AML Detection Simulator
+
+You have £1,000,000 in criminal proceeds. Can you clean it across three stages without triggering a Suspicious Activity Report to the NCA?
+
+Play it → [your GitHub Pages link] What it is An interactive educational simulation of the three-stage money laundering process — Placement, Layering, Integration — with AML detection systems responding to each decision in real time. Every scenario maps to documented typologies from FATF guidance, the NCA Annual SARs Report 2024 and the FCA Financial Crime Guide. Regulatory references are cited after every choice. How it works
+
+3 stages, each with 3 choices at different risk levels Each choice carries a detection heat score — visible before you commit High-risk choices trigger real detection system responses (structuring alerts, MLRO escalations, SAR filings) Accumulate enough heat → NCA alert fires, SAR is submitted, game ends After each choice: Compliance Insight explains exactly how real AML systems would respond
+
+Regulatory frameworks covered ReferenceTopicFATF Typology 7Smurfing / structured depositsJMLSG Guidance Part I Ch 4Cash-intensive business placementMLR 2017 Reg 37CTF threshold monitoringPOCA 2002 s.327-330Criminal property offencesPOCA 2002 s.335-336NCA consent regimeFATF Recommendation 16Travel Rule (crypto)Economic Crime Act 2022Register of Overseas Entities, UWOsNCA Annual SARs Report 2024901,255 SARs filed in 2023-24Law Society AML Guidance 2023Conveyancing Source of Funds Tech Vanilla HTML, CSS, JavaScript. No frameworks. No backend. No build step. Open the file — it runs. Author Nikhil Shinde — Product & Operations Analyst | KYC/AML Product Owner LinkedIn · Portfolio Prior experience: KYC/AML product ownership at Microkred Technologies (Svatantra Microfinance, SBM Bank, Lyra Network, Relipay) · Product & Operations at LV=
